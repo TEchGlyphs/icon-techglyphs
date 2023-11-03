@@ -75,6 +75,6 @@
     }
   ],
   "serviceworker": {
-    "src": "https://techglyphs.com/sw.js"
+    "src": "https://www.techglyphs.com/sw.js"
   }
 }
